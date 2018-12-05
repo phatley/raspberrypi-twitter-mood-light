@@ -1,10 +1,10 @@
 # Get your own
 # http://dev.twitter.com
 OAUTH_KEYS = {
-  'consumer_key': "ma0u1gaYze3YtDGpnsbEoRSlW",
-  'consumer_secret': "34QzXdFK62exhX9q2D43nNOK2QKRdB8ttXnATduzZphshFqF5m",
-  'access_token_key': "26192873-WOpgCZa1Dj2yC5vu44AYFshB3O7nRCfaLVlXLAXtg",
-  'access_token_secret': "ekw6pgbyI4QUz3CW5dMRpKZtkJqUUwAtLZzNwhad0QygQ"
+  'consumer_key': "RhFpP8YCAizYVkQ22hqyt2Exw",
+  'consumer_secret': "TsH9QUlP2cbWNJh1vxDwtzUt3P627cJwrJ6oywHuMnij0Yn6cg",
+  'access_token_key': "1069718716550651904-VzwcGEXSCyiHMlN1FWAJ1U7KnAxQdX",
+  'access_token_secret': "EOSUZ7Uo69AgwQ57tPOkzKqBu4NfHCedCSLSTXUHUvYgt"
 }
 
 MOOD_LIMIT = 500
